@@ -1,0 +1,1 @@
+import{t as e}from"./index-C2jaLXcw.js";var t=e();function n(){return(0,t.jsx)(`main`,{className:`sr-only`,children:(0,t.jsx)(`h1`,{children:`Map Studio Pro`})})}export{n as component};

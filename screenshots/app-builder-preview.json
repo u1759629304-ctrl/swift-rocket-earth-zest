@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Map Studio Pro",
+      "hasCanvas": true,
+      "bodyTextLen": 2236,
+      "bodyTextHash": "fb018056737a0f0fc81b4da020b6676fe9aedc5f4942406874478a9dba7bfd32",
+      "bodyTextPrefix": "Map Studio Pro M MAP STUDIO PRO V9 VLOER 0.2x0.2 • 5×5 per meter",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Map Studio Pro",
+      "hasCanvas": true,
+      "bodyTextLen": 2236,
+      "bodyTextHash": "fb018056737a0f0fc81b4da020b6676fe9aedc5f4942406874478a9dba7bfd32",
+      "bodyTextPrefix": "Map Studio Pro M MAP STUDIO PRO V9 VLOER 0.2x0.2 • 5×5 per meter",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
